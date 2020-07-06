@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/citas-prueba-react/static/css/main.635bd718.chunk.css",
+    "main.js": "/citas-prueba-react/static/js/main.e2921190.chunk.js",
+    "main.js.map": "/citas-prueba-react/static/js/main.e2921190.chunk.js.map",
+    "runtime-main.js": "/citas-prueba-react/static/js/runtime-main.ce2f0c31.js",
+    "runtime-main.js.map": "/citas-prueba-react/static/js/runtime-main.ce2f0c31.js.map",
+    "static/js/2.2aca169f.chunk.js": "/citas-prueba-react/static/js/2.2aca169f.chunk.js",
+    "static/js/2.2aca169f.chunk.js.map": "/citas-prueba-react/static/js/2.2aca169f.chunk.js.map",
+    "index.html": "/citas-prueba-react/index.html",
+    "precache-manifest.e18021a93021fd2757e7cd56ce4efced.js": "/citas-prueba-react/precache-manifest.e18021a93021fd2757e7cd56ce4efced.js",
+    "service-worker.js": "/citas-prueba-react/service-worker.js",
+    "static/css/main.635bd718.chunk.css.map": "/citas-prueba-react/static/css/main.635bd718.chunk.css.map",
+    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/citas-prueba-react/static/js/2.2aca169f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce2f0c31.js",
+    "static/js/2.2aca169f.chunk.js",
+    "static/css/main.635bd718.chunk.css",
+    "static/js/main.e2921190.chunk.js"
+  ]
+}
